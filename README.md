@@ -1,1 +1,1 @@
-# worpress
+# wordpress
